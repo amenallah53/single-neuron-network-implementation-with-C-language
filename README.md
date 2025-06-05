@@ -2,7 +2,7 @@
 
 - Amanullah Menjli
 - Mayssa Ben M'rad
-- Amen Allah Kalai
+- Amenallah Kalai
 - Amal Teyeb
 
 # Project description:
