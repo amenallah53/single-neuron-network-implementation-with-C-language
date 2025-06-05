@@ -1,0 +1,6 @@
+#ifndef NEURAL_NETWORK_2_ACTIVATION_FUNCTIONS_H
+#define NEURAL_NETWORK_2_ACTIVATION_FUNCTIONS_H
+
+float sigmoid(float x);
+
+#endif
