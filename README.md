@@ -1,9 +1,9 @@
 # Team members:
 
-- Amanullah Menjli
-- Mayssa Ben M'rad
-- Amenallah Kalai
-- Amal Teyeb
+- Amanullah MENJLI
+- Mayssa Ben M'RAD
+- Amenallah KALAI
+- Amal TEYEB
 
 # Project description:
 
